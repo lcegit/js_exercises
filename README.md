@@ -1,5 +1,5 @@
-## Javascript Exercises #1# 
-**Basic stuff!***
+## Javascript Exercises #1
+**Basic stuff!**
 
 1. Create an array and add three numbers to it.
 2. Use your array to return the second number.
