@@ -12,8 +12,9 @@ numbers[3]
 ```
 
 3. a. What data type is 123/12? b. "Things in quotes!"? c. undefined?
+```
 a. Number b. String c. undefined
-
+```
 4. Write an if statement that returns true.
 ```
 var myVar = "Lisa";
