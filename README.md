@@ -1,4 +1,4 @@
-##Javascript Exercises 1##
+## Javascript Exercises #1# 
 **Basic stuff!***
 
 1. Create an array and add three numbers to it.
