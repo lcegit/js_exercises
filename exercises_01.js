@@ -10,9 +10,10 @@ for(var n = 0; n < myArray.length; n++) {
 
 
 var myVar = "Lisa";
-
 if (myVar === "Lisa") {
-    console.log("That's my name");
+    true;
+  //  console.log("That's my name");
 } else {
-   console.log("That's not me");
+   false;
+//   console.log("That's not me");
 }
