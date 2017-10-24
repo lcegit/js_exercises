@@ -43,6 +43,7 @@ for(var n = 0; n < myArray.length; n++) {
 function firstName() {
   return "Lisa";
 }
+firstName();
 ```
 2. Write a new function that takes your name as an input. The function should return your first name, plus your last name, as one string.
 
