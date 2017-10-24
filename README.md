@@ -35,3 +35,21 @@ for(var n = 0; n < myArray.length; n++) {
   emptyArray.push(myArray[n]);
 }
 ```
+## Javascript Exercises #2
+
+1. Write a function that returns your first name. Call it.
+
+```
+function firstName() {
+  return "Lisa";
+}
+```
+2. Write a new function that takes your name as an input. The function should return your first name, plus your last name, as one string.
+
+```
+function elName (firstName) {
+  var lastName = "Eriksson"
+  return firstName + " " + lastName;
+}
+console.log(elName('Lisa', 'Eriksson'));
+```
