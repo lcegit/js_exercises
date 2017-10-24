@@ -16,3 +16,17 @@ emptyArray = []
 for(var n = 0; n < myArray.length; n++) {
   emptyArray.push(myArray[n]);
 }
+
+
+function firstName() {
+  return "Lisa";
+}
+firstName();
+
+
+
+function elName (firstName) {
+  var lastName = "Eriksson"
+  return firstName + " " + lastName;
+}
+console.log(elName('Lisa', 'Eriksson'));
