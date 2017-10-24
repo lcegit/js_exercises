@@ -57,4 +57,5 @@ console.log(elName('Lisa', 'Eriksson'));
 ## Javascript Exercises #3
 
 1. What is `.this`? Does it have an equivalent in Ruby?
+
 `this.` assigns a variable within a function / "constructor". It's the equivalent of the initialize method in Ruby.
