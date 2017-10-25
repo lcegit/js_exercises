@@ -11,18 +11,25 @@ if (myVar === "Lisa") {
 //   console.log("That's not me");
 }
 
+/*
 myArray = ['Thomas', 'Amber', 'Raoul']
 emptyArray = []
 for(var n = 0; n < myArray.length; n++) {
   emptyArray.push(myArray[n]);
 }
+*/
+
+myArray = ['Thomas', 'Amber', 'Raoul']
+emptyArray = []
+myArray.forEach(function(myArray) {
+  emptyArray.push(myArray);
+});
 
 
 function firstName() {
   return "Lisa";
 }
 firstName();
-
 
 
 function elName (firstName) {

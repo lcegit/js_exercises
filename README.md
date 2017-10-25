@@ -31,9 +31,9 @@ if (myVar === "Lisa") {
 ```
 myArray = ['Thomas', 'Amber', 'Raoul']
 emptyArray = []
-for(var n = 0; n < myArray.length; n++) {
-  emptyArray.push(myArray[n]);
-}
+myArray.forEach(function(myArray) {
+  emptyArray.push(myArray);
+});
 ```
 ## Javascript Exercises #2
 
